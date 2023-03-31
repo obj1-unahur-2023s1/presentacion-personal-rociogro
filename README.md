@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-# Programación con objetos I
+# Programación con objetos I Rocio Grossi
 
 Nueva Presentacion de Rocio Grossi
 
