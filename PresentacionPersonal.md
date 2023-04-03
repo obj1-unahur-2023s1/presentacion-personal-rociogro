@@ -9,7 +9,7 @@
 
 
 
-##Soy Rocío, tengo 33 años y actualmente estudio la Lic. en informática en la Universidad Nacional de Hurligham.
+Soy Rocío, tengo 33 años y actualmente estudio la Lic. en informática en la Universidad Nacional de Hurligham.
 
 Soy licenciada en Relaciones Laborales, me recibí en la Universidad Nacional de La Matanza y trabajo como jefa de RRHH en una empresa cosmética.
 
